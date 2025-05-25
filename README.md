@@ -5,6 +5,11 @@ Your project's description...
 - Preview: https://main--jet2holidays--cxc38.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
 
+## Content source
+- Base site: https://drive.google.com/drive/folders/1eiyp7maBLuw0pa_QUfurBQ812IBf3CoV
+- Repoless site:
+
+  
 ## Documentation
 
 Before using the aem-boilerplate, we recommand you to go through the documentation on https://www.aem.live/docs/ and more specifically:
